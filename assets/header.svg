@@ -15,8 +15,8 @@
 <text x="52" y="112" fill="#62f5be" font-family="monospace" font-size="15" letter-spacing="3">SOFTWARE / AUTOMATION / INFRASTRUCTURE</text>
 <text x="48" y="205" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="82" letter-spacing="-3">STORM ALFAST</text>
 <text x="52" y="257" fill="#acbac5" font-family="Arial, Helvetica, sans-serif" font-size="27">Build it. Break it. Make it better.</text>
-<text x="52" y="334" fill="#62f5be" font-family="monospace" font-size="19">&gt; turning ideas into things that work<tspan>_</tspan></text>
-<rect x="571" y="317" width="10" height="21" fill="#62f5be"><animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="52" y="334" fill="#62f5be" font-family="monospace" font-size="19">&gt; turning ideas into things that work</text>
+<rect x="510" y="317" width="10" height="21" fill="#62f5be"><animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/></rect>
 <text x="52" y="386" fill="#738995" font-family="monospace" font-size="13" letter-spacing="2">COPENHAGEN, DK</text>
 <path d="M1025 132l-50 73 53 0-33 91 97-113-61 0 38-51z" fill="#62f5be" opacity=".9"/>
 </svg>
