@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Storm Alfast — Build it. Break it. Make it better.</title>
+<desc id="desc">Dark terminal banner with mint green lettering. Copenhagen, Denmark. Software, automation and infrastructure.</desc>
+<defs>
+<pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#dce5e7" stroke-width="1"/></pattern>
+<linearGradient id="fade"><stop stop-color="#087c60" stop-opacity=".14"/><stop offset="1" stop-color="#087c60" stop-opacity="0"/></linearGradient>
+</defs>
+<rect width="1200" height="420" rx="20" fill="#f6f8fa"/>
+<rect x="740" width="460" height="420" fill="url(#grid)" opacity=".65"/>
+<circle cx="1080" cy="190" r="240" fill="url(#fade)"/>
+<rect x="1" y="1" width="1198" height="418" rx="19" fill="none" stroke="#cbd5de"/>
+<path d="M0 54H1200" stroke="#cbd5de"/>
+<circle cx="28" cy="27" r="6" fill="#ff6b6b"/><circle cx="50" cy="27" r="6" fill="#f6c85f"/><circle cx="72" cy="27" r="6" fill="#087c60"/>
+<text x="102" y="33" fill="#526773" font-family="monospace" font-size="14">storm@copenhagen: ~/building</text>
+<text x="52" y="112" fill="#087c60" font-family="monospace" font-size="15" letter-spacing="3">SOFTWARE / AUTOMATION / INFRASTRUCTURE</text>
+<text x="48" y="205" fill="#162d38" font-family="Arial, Helvetica, sans-serif" font-weight="800" font-size="82" letter-spacing="-3">STORM ALFAST</text>
+<text x="52" y="257" fill="#516674" font-family="Arial, Helvetica, sans-serif" font-size="27">Build it. Break it. Make it better.</text>
+<text x="52" y="334" fill="#087c60" font-family="monospace" font-size="19">&gt; turning ideas into things that work</text>
+<rect x="510" y="317" width="10" height="21" fill="#087c60"><animate attributeName="opacity" values="1;0;1" dur="1.6s" repeatCount="indefinite"/></rect>
+<text x="52" y="386" fill="#516674" font-family="monospace" font-size="13" letter-spacing="2">COPENHAGEN, DK</text>
+<path d="M1025 132l-50 73 53 0-33 91 97-113-61 0 38-51z" fill="#087c60" opacity=".9"/>
+</svg>
